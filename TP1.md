@@ -90,7 +90,7 @@ Code de statut : `404 NOT FOUND`
 **500 :**  
 Code de statut : `500 INTERNAL SERVER ERROR`  
 **Capture d'écran :**  
-![Codes de statut HTTP](imgs_tp1/500.png)
+![Codes de statut HTTP](./imgs_tp1/500.png)
 
 **redirect/3 :**  
 La requête effectue 3 redirections :
