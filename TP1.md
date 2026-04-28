@@ -85,7 +85,7 @@ Code de statut : `200 OK`
 **404 :**  
 Code de statut : `404 NOT FOUND`
 **Capture d'écran :**  
-![Codes de statut HTTP](imgs_tp1/404.png)
+![Codes de statut HTTP](imgs_tp1/400.png)
 
 **500 :**  
 Code de statut : `500 INTERNAL SERVER ERROR`  
